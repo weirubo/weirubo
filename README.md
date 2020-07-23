@@ -1,7 +1,7 @@
 <html>
-    <table border="0" style="margin-left: auto; margin-right: auto;">
+    <table style="margin-left: auto; margin-right: auto; border:0;">
         <tr>
-            <td>
+            <td style="border:0;">
                 <!--左侧内容-->
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;Go 语言学习</span>
                 <ul style="list-style-type:none;">
@@ -11,7 +11,7 @@
 		        		<li><a href="#" target="_blank">流程控制</a></li>
                 </ul>           
             </td>
-            <td>
+            <td style="border:0;">
                 <!--右侧内容-->
                 <img src="https://github-readme-stats.vercel.app/api?username=weirubo&show_icons=true&hide_title=true"/>
             </td>
