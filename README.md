@@ -1,5 +1,5 @@
 <html>
-    <table style="margin-left: auto; margin-right: auto;">
+    <table border="0" style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
                 <!--左侧内容-->
