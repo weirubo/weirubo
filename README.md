@@ -1,7 +1,7 @@
 <html>
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
-            <td style="width:60%">
+            <td>
                 <!--左侧内容-->
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;Go 语言学习</span>
                 <ul style="list-style-type:none;">
