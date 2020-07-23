@@ -1,4 +1,4 @@
-<div id="wrap">
+<div id="content">
     <div id="div1" style="float:left">
     	<span>&nbsp;&nbsp;&nbsp;&nbsp;Go 语言学习</span>
                 <ul style="list-style-type:none;">
