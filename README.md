@@ -1,4 +1,4 @@
-<div id="wrap" style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
+<div id="wrap" style="display: flex; justify-content: space-between;">
     <div id="div1">
     	<span>&nbsp;&nbsp;&nbsp;&nbsp;Go 语言学习</span>
                 <ul style="list-style-type:none;">
