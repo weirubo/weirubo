@@ -1,4 +1,5 @@
-<div id="content">
+<div>
+<div id="wrap">
     <div id="div1" style="float:left">
     	<span>&nbsp;&nbsp;&nbsp;&nbsp;Go 语言学习</span>
                 <ul style="list-style-type:none;">
@@ -9,4 +10,5 @@
                 </ul>  
     </div>
     <div id="div2" style="float:right"><img src="https://github-readme-stats.vercel.app/api?username=weirubo&show_icons=true&hide_title=true"/></div>
+</div>
 </div>
