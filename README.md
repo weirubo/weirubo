@@ -1,9 +1,15 @@
 <html>
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
-            <td>
+            <td style="width:60%">
                 <!--左侧内容-->
-                weirubo
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;Go 语言学习</span>
+                <ul style="list-style-type:none;">
+		        		<li><a href="https://mp.weixin.qq.com/s/bhMITWL0mpBK49FvTE9PtA" target="_blank">变量</a></li>
+		        		<li><a href="https://mp.weixin.qq.com/s/GKG3zmic_QJPQC0oBzRuyg" target="_blank">基础数据类型</a></li>
+		        		<li><a href="#" target="_blank">常量</a></li>
+		        		<li><a href="#" target="_blank">流程控制</a></li>
+                </ul>           
             </td>
             <td>
                 <!--右侧内容-->
