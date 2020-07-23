@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🇨🇳 Beijing,China    💻 programmer
+
+📧 weirubo@gmail.com
+
+🔗 https://blog.cnswift.cn/
+
+**skills:**
+* Go         ★★★☆☆
+* PHP        ★★★★☆
+* JavaScript ★★★☆☆
+* MySQL      ★★★★☆
+* Redis      ★★★★☆
+* Nginx      ★★★☆☆
+* Linux      ★★★☆☆
