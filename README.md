@@ -1,4 +1,4 @@
-<table width=100% frame=void>
+<table width=100%>
 <tr>
 <td width=60%>
 <span>Go 语言学习</span><br/>
