@@ -1,4 +1,4 @@
-<div id="wrap">
+<div id="wrap" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <div id="div1">
     	<span>&nbsp;&nbsp;&nbsp;&nbsp;Go 语言学习</span>
                 <ul style="list-style-type:none;">
@@ -10,11 +10,3 @@
     </div>
     <div id="div2"><img src="https://github-readme-stats.vercel.app/api?username=weirubo&show_icons=true&hide_title=true"/></div>
 </div>
-
-<style>
-#wrap{
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-</style>
