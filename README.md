@@ -7,3 +7,4 @@
 6. [数组](https://mp.weixin.qq.com/s/VKv5wei-YxpXVuh0L78zig)
 7. [slice](https://mp.weixin.qq.com/s/68nADMG4Q9XWmToC8ksJCw)
 8. [map](https://mp.weixin.qq.com/s/uA2ZUikf-u-mvS6q43LnLg)
+9. [struct](https://mp.weixin.qq.com/s/GCqWDWIt4GFd58zv8KHbvA)
