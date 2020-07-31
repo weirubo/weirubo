@@ -8,3 +8,4 @@
 7. [slice](https://mp.weixin.qq.com/s/68nADMG4Q9XWmToC8ksJCw)
 8. [map](https://mp.weixin.qq.com/s/uA2ZUikf-u-mvS6q43LnLg)
 9. [struct](https://mp.weixin.qq.com/s/GCqWDWIt4GFd58zv8KHbvA)
+10. [函数](https://mp.weixin.qq.com/s/mJc-zd7cL4ExarvbRTJiEQ)
