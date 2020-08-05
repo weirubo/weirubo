@@ -11,3 +11,4 @@
 10. [函数](https://mp.weixin.qq.com/s/mJc-zd7cL4ExarvbRTJiEQ)
 11. [错误处理](https://mp.weixin.qq.com/s/YWnTr_QNKvnDNjyAzr4Dcw)
 12. [panic 和 recover](https://mp.weixin.qq.com/s/aJqc9S1SlYd0iN4HF5on7A)
+13. [方法](https://mp.weixin.qq.com/s/TPeibdAWA9VLv4B4alwkjQ)
