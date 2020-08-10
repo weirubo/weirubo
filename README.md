@@ -3,7 +3,7 @@
 2. [基础数据类型](https://github.com/weirubo/learn_go/blob/master/ebook/2.md)
 3. [常量](https://github.com/weirubo/learn_go/blob/master/ebook/3.md)
 4. [运算符](https://github.com/weirubo/learn_go/blob/master/ebook/4.md)
-5. [流程控制](https://mp.weixin.qq.com/s/EjGkyAUWI50eiIibsISe4g)
+5. [流程控制](https://github.com/weirubo/learn_go/blob/master/ebook/5.md)
 6. [数组](https://mp.weixin.qq.com/s/VKv5wei-YxpXVuh0L78zig)
 7. [slice](https://mp.weixin.qq.com/s/68nADMG4Q9XWmToC8ksJCw)
 8. [map](https://mp.weixin.qq.com/s/uA2ZUikf-u-mvS6q43LnLg)
