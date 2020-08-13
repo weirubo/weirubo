@@ -15,3 +15,5 @@
 14. [接口](https://mp.weixin.qq.com/s/v_pNTrj4lHR3fv1k9V2wMQ)
 15. [goroutine 和 channel](https://mp.weixin.qq.com/s/bgvITTjr-_5m6zmXgtV5Bw)
 16. [并发](https://mp.weixin.qq.com/s/R2mlXTADdq72IzFUmyOziw)
+17. [测试](https://mp.weixin.qq.com/s/-rFBeMQ6Us2bGUmT6o5Tmg)
+18. [包](https://mp.weixin.qq.com/s/jSMZLOYBQApoNu2TomJ6iw)
