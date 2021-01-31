@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/weirubo/learn_go/blob/master/ebook/1.md">01-变量</a></td>
-    <td><a href="https://github.com/weirubo/learn_go/blob/master/ebook/2.md">02-基础数据类型]</a></td>
+    <td><a href="https://github.com/weirubo/learn_go/blob/master/ebook/2.md">02-基础数据类型</a></td>
     <td><a href="https://github.com/weirubo/learn_go/blob/master/ebook/3.md">03-常量</a></td>
     <td><a href="https://github.com/weirubo/learn_go/blob/master/ebook/4.md">04-运算符</a></td>
     <td><a href="https://github.com/weirubo/learn_go/blob/master/ebook/5.md">05-流程控制</a></td>
