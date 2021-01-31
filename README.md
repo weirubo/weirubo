@@ -1,7 +1,7 @@
 **「Go 语言学习」**
 <table>
   <tr>
-    <td>[01-变量](https://github.com/weirubo/learn_go/blob/master/ebook/1.md)</td>
+    <td><a href="https://github.com/weirubo/learn_go/blob/master/ebook/1.md" target="_blank">01-变量</a></td>
     <td>[02-基础数据类型](https://github.com/weirubo/learn_go/blob/master/ebook/2.md)</td>
   </tr>
   <tr>
