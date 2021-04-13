@@ -27,7 +27,7 @@
   <tr>
     <td><a href="https://mp.weixin.qq.com/s/2wvfob2BUYktsZ1aZqcqqQ">19-go tool</a></td>
     <td><a href="https://mp.weixin.qq.com/s/mIwFK61-lD9S9JPCWBHFGA">20-反射</a></td>
-    <td><a href="https://github.com/weirubo/intermediate_go">[连载]01-Go进阶</a></td>
+    <td><a href="https://github.com/weirubo/intermediate_go">[连载]01-Golang进阶</a></td>
     <td><a href="https://github.com/weirubo/go-concurrent">[连载]02-并发编程</a></td>
     <td><a href="https://github.com/weirubo/go-package">[连载]03-标准库</a></td>
     <td><a href="https://github.com/weirubo/go-third-packge">[连载]04-三方库</a></td>
