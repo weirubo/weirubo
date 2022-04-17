@@ -8,7 +8,7 @@
 - :meat_on_bone: Meat lover
 
 
-**「Go language learning」**
+**Go language learning**
 
 <div>
   <img src="https://golanghub.org/images/qrcode.png" alt="Golang语言开发栈"/>
