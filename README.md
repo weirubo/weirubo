@@ -11,5 +11,5 @@
 **Go language learning**
 
 <div>
-  <img src="https://golanghub.org/images/qrcode.png" alt="Golang语言开发栈"/>
+  <img src="https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png" alt="Golang语言开发栈"/>
 <div>
