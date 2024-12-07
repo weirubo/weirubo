@@ -2,9 +2,8 @@
 
 ### Hello, world 👋
 
-- :orange_book: Focusing on Go & PHP
+- :orange_book: Focusing on Go
 - :hammer: Technology blogger
-- :ram: Founder the PHP-Z
 - :meat_on_bone: Meat lover
 
 
